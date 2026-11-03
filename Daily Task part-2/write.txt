@@ -1,0 +1,2 @@
+*** NEW HEADER ***
+The with statement ensures auto close.
